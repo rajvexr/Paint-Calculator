@@ -19,7 +19,8 @@ public class Main {
 
                 double Paint = areaOfWall / 350; /* 1 gallon of paint covers 350 square feet, the paint required */
 
-                double requiredCoats = Math.round(Paint) * 2; //the amount of coat required //
+                double requiredCoats = Math.round(Paint) * 2; //the amount of coat required
+        //
 
 
                 System.out.println("The paint you require is " + Math.round(Paint) +
